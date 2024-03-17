@@ -9,7 +9,7 @@
   box-sizing: border-box;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
   -webkit-text-stroke: 1px #ffffff; 
-  margin-left: 11%;
+
 }
 
 .failmsg{
@@ -28,7 +28,7 @@ form {
 }
 
 input {
-  width: 130%;
+  width: 100%;
   height: 50px;
   padding: 10px;
   margin-bottom: 25px; 
@@ -67,7 +67,7 @@ body {
 .or-container {
   display: flex;
   align-items: center;
-  margin-left: 28%;
+  
   white-space: pre-line;
   font-family: 'Manrope', sans-serif;
 }
@@ -85,7 +85,7 @@ body {
 .have_acc{
   display: flex;
   align-items: center;
-  margin-left: 31%;
+  margin-left: 15%;
   font-family: 'Manrope', sans-serif;
   font-size: 15px;
 }
